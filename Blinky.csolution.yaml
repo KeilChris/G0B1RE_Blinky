@@ -35,7 +35,7 @@ solution:
   projects:
     - project: Blinky.cproject.yaml
   target-types:
-    - board: STMicroelectronics::NUCLEO-G0B1RE:Rev.C
+    - board: STMicroelectronics::NUCLEO-G0B1RE
       device: STMicroelectronics::STM32G0B1RETx
       type: Board
 
